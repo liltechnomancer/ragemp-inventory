@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Heavy Ammo",
+    "weight": "1g",
+    "description": "This fits in the big guns.",
+    "img": "https://img.icons8.com/color/96/000000/bullet-2.png",
+    "count": 10
+  },
+  {
+    "name": "Light Ammo",
+    "weight": "15g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/color/96/000000/bullet.png",
+    "count": 10
+  },
+  {
+    "name": "Fries",
+    "weight": "15g",
+    "description": "Greasy, tasty, salty fries.",
+    "img": "https://img.icons8.com/color/96/000000/french-fries.png",
+    "count": 10
+  },
+  {
+    "name": "Marijuana",
+    "weight": "15g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/fluent/96/000000/marijuana-leaf.png",
+    "count": 10
+  },
+  {
+    "name": "Fries",
+    "weight": "15g",
+    "description": "Greasy, tasty, salty fries.",
+    "img": "https://img.icons8.com/color/96/000000/french-fries.png",
+    "count": 10
+  },
+  {
+    "name": "Marijuana",
+    "weight": "15g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/fluent/96/000000/marijuana-leaf.png",
+    "count": 10
+  },
+  {
+    "name": "Beretta M9",
+    "weight": "15g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/color/48/000000/crime.png",
+    "count": 1
+  },
+  {
+    "name": "ID Card",
+    "weight": "1g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/dusk/64/000000/identification-documents.png",
+    "count": 1
+  },
+  {
+    "name": "AK-47",
+    "weight": "150g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/color/96/000000/ak-47.png",
+    "count": 1
+  },
+  {
+    "name": "First Aid",
+    "weight": "15g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/dusk/64/000000/survival-bag.png",
+    "count": 10
+  },
+  {
+    "name": "Cash",
+    "weight": "0g",
+    "description": " This kit has some things in it that might help in a pinch.",
+    "img": "https://img.icons8.com/dusk/64/000000/money.png",
+    "count": 530
+  }
+]
