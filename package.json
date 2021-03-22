@@ -1,7 +1,7 @@
 {
   "name": "inventory-menu",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is the github version.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
